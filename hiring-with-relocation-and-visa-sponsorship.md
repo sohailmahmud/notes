@@ -2,7 +2,7 @@ A number of people asked me how to find jobs that offer Visa/Relocation Sponsors
 
 These are the companies that offer jobs with relocation and visa sponsorship for the right candidates that I know of.
 
-- ![trivago](https://company.trivago.com/open-positions/?gh_src=1f823c482)
+- [trivago](https://company.trivago.com/open-positions/?gh_src=1f823c482)
 - Westwing
 - Zalando
 - Delivery Hero
