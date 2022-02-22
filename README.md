@@ -32,6 +32,7 @@ Notes from books and articles I am reading.
 - [Testing](#testing)
 - [Unix](#unix)
 - [Web Development](#web-development)
+- [Web3](#web3)
 - [Job Opportunities](#job-opportunities)
 
 <!-- /TOC -->
@@ -167,6 +168,10 @@ Notes from books and articles I am reading.
 - [Http](web-development/http.md)
 - [Microservices](web-development/microservices.md)
 - [Wsgi](web-development/wsgi.md)
+
+## Web3
+
+-
 
 ## Job Opportunities
 
