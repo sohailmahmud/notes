@@ -10,18 +10,21 @@ Notes from books and articles I am reading.
 - [Artificial Intelligence](#artificial-intelligence)
 - [Blockchain](#blockchain)
 - [Computer Science](#computer-science)
+- [Data Science](#data-science)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Databases](#databases)
-- [Deployment and Cloud](#deployment-and-cloud)
-- [DevOps](#devops)
+- [Docker](#docker)
 - [Flutter](#flutter)
+- [Git](#git)
+- [Google Cloud Platform](#gcp)
 - [General](#general)
-- [Laravel](#laravel)
+- [GraphQL](#graphql)
 - [Java](#java)
 - [Javascript](#javascript)
 - [Machine Learning](#machine-learning)
 - [Meetup](#meetup)
 - [NodeJS](#nodejs)
+- [PHP](#php)
 - [Problem Solving](#problem-solving)
 - [Product](#product)
 - [Professional Development](#professional-development)
@@ -39,15 +42,17 @@ Notes from books and articles I am reading.
 
 ## Amazon Web Services
 
-- [AWS Certified Developer Associate - Associate (AWS)](https://www.amazon.com/gp/product/B079QQQQQQ)
+- [AWS Certified Developer Associate](https://www.amazon.com/gp/product/B079QQQQQQQ)
 
 ## Artificial Intelligence
 
--
+- [Deep Learning](https://www.deeplearning.ai/)
+- [Keras](https://keras.io/)
 
 ## Blockchain
 
--
+- [Ethereum](https://ethereum.org/)
+- [Ethereum Classic](https://ethereumclassic.org/)
 
 ## Computer Science
 
@@ -67,25 +72,38 @@ Notes from books and articles I am reading.
 - [First Course On Database Systems](databases/first_course_on_database_systems.md)
 - [Sql For Web Nerds](databases/sql_for_web_nerds.md)
 - [Stanford Db Course](databases/stanford_db_course.md)
+- [Git](deployment-cloud-and-version-control/git.md)
 
-# Developer Relations
+## Docker
 
-- [Business Value of Developer Relations](developer-relations/business_value_of_developer_relations.md)
-- [Developer Marketing + Relations: The Essential Guide](developer-relations/developer_marketing_and_relations__the_essential_guide.md)
-
-## DevOps
-
-- [Docker](devops/docker.md)
-- [Kuberentes](devops/kubernetes)
+- [Docker For Beginners](docker/docker_for_beginners.md)
 
 ## Flutter
 
--
+- [Flutter For Beginners](flutter/flutter_for_beginners.md)
+
+## Git
+
+- [Git For Beginners](git/git.md)
+
+## Google Cloud Platform
+
+- [Google Cloud Platform For Beginners](gcp/gcp.md)
 
 ## General
 
 - [Learning Things Quickly](general/learning_things_quickly.md)
 - [Software Debugging Udacity](general/software_debugging_udacity.md)
+
+## GraphQL
+
+- [GraphQL For Beginners](graphql/graphql.md)
+
+## Java
+
+- [Data Structures and Algorithms](java/data-structures-and-algorithms.md)
+- [Clean Code](java/clean_code.md)
+- [Clean Architecture](java/clean_architecture.md)
 
 ## Javascript
 
@@ -95,18 +113,26 @@ Notes from books and articles I am reading.
 
 ## Machine Learning
 
--
+- [AWS Machine Learning](machine-learning/aws_machine_learning.md)
 
 ## Meetup
 
 - [Blockchain-In-Healthcare-Summit](meetup/blockchain-in-healthcare-summit.md)
-- [Chicago-Startup-Community](meetup/chicago-startup-community.md)
 - [Pycon2018](meetup/pycon2018.md)
 - [React-Chicago](meetup/react-chicago.md)
 
 ## NodeJS
 
 - [NodeJS]
+
+## PHP
+
+- [Laravel](php/laravel.md)
+- [Core PHP](php/core_php.md)
+
+## Problem Solving
+
+- [Programming Contest DS and Algorithms](problem-solving/programming-contest-ds-and-algorithms.md)
 
 ## Product
 
@@ -120,24 +146,20 @@ Notes from books and articles I am reading.
 
 ## Project Management
 
--
+- [Terraform](project-management/terraform.md)
+- [Jenkins](deployment-cloud-and-version-control/jenkins.md)
+- [CircleCI](deployment-cloud-and-version-control/circleci.md)
+- [Codemagic](deployment-cloud-and-version-control/codemagic.md)
+- [Gradle](deployment-cloud-and-version-control/gradle.md)
 
 ## Python
 
 - [Fluent Python](python/fluent_python.md)
 - [Logging](python/logging.md)
 
-## Laravel
+## Rest APIs
 
--
-
-## Deployment and Cloud
-
-- [Docker](snippets/docker.md)
-- [Domain Modeling](snippets/domain_modeling.md)
-- [Git](snippets/git.md)
-- [Kubernetes](snippets/kubernetes.md)
-- [Python](snippets/python.md)
+- [Rest APIs TOP Collection](rest-apis/rest-apis.md)
 
 ## Software Engineering
 
