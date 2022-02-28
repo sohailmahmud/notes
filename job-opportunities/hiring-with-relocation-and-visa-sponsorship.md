@@ -4,38 +4,38 @@ A number of people asked me how to find jobs that offer Visa/Relocation Sponsors
 These are the companies that offer jobs with relocation and visa sponsorship for the right candidates that I know of.
 
 - [trivago](https://company.trivago.com/open-positions/?gh_src=1f823c482)
-- Westwing
-- Zalando
-- Delivery Hero
-- Eurowings Digital
-- Amazon
-- N26
-- METRO Markets GmbH
-- Brunel
-- Lilium
-- Wunderflats
-- Personio
-- Evotec
-- Cosuno
-- FINN
-- CHECK24 Vergleichsportal GmbH
-- Bosch Service Solutions
-- Adjust
-- Raisin DS
-- Penta
-- Choco
-- Taxfix
-- Capital One
-- Klarna
-- OneFootball
-- AUTO1 Group
-- CLARK
-- Booking.com
-- Ada Health
-- VTEX
-- Tyro Payments
-- Wise
-- umlaut company
+- [Westwing](https://www.westwing.com/career/)
+- [Zalando](https://jobs.zalando.com/en/jobs/)
+- [Delivery Hero](https://careers.deliveryhero.com/global/en)
+- [Eurowings Digital](https://eurowings-digital.de/all-jobs/)
+- [Amazon](https://www.amazon.jobs/en/)
+- [N26](https://n26.com/en/careers/)
+- [METRO Markets GmbH](https://www.metro-markets.de/careers/)
+- [Brunel](https://www.brunel.net/en/careers/)
+- [Lilium](https://lilium.com/careers/)
+- [Wunderflats](https://boards.eu.greenhouse.io/wunderflats/)
+- [Personio](https://personio.jobs.personio.de/?language=en)
+- [Evotec](https://www.evotec.com/en/career)
+- [Cosuno](https://www.cosuno.de/en/careers/)
+- [FINN](https://www.finn.auto/careers/)
+- [CHECK24 Vergleichsportal GmbH](https://jobs.check24.de/)
+- [Bosch Service Solutions](https://www.boschservicesolutions.com/en/career/)
+- [Adjust](https://www.adjust.com/company/careers/jobs/)
+- [Raisin DS](https://raisin.jobs.personio.de/)
+- [Penta](https://getpenta.com/en/openings/)
+- [Choco](https://choco.com/careers)
+- [Taxfix](https://taxfix.de/en/careers/)
+- [Capital One](https://www.capitalonecareers.com/)
+- [Klarna](https://jobs.lever.co/klarna)
+- [OneFootball](https://company.onefootball.com/jobs/)
+- [AUTO1 Group](https://www.auto1-group.com/jobs/)
+- [CLARK](https://www.clark.de/careers/)
+- [Booking.com](https://jobs.booking.com/careers)
+- [Ada Health](https://ada.com/careers/)
+- [VTEX](https://careers.vtex.com/)
+- [Tyro Payments](https://jobs.lever.co/tyro/)
+- [Wise](https://www.wise.jobs/)
+- [umlaut company](https://www.umlaut.com/en/career)
 
 Feel free to add more companies and websites in the comments to help the people currently searching.
 
