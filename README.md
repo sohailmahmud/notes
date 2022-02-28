@@ -6,17 +6,17 @@ Notes from books and articles I am reading.
 
 <!-- TOC -->
 
-- [Amazon Web Services](#aws)
+- [Amazon Web Services](#amazon-web-services)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Blockchain](#blockchain)
 - [Computer Science](#computer-science)
 - [Data Science](#data-science)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Databases](#databases)
-- [Docker](#docker)
+- [DevOps](#devops)
 - [Flutter](#flutter)
 - [Git](#git)
-- [Google Cloud Platform](#gcp)
+- [Google Cloud Platform](#google-cloud-platform)
 - [General](#general)
 - [GraphQL](#graphql)
 - [Java](#java)
@@ -35,14 +35,13 @@ Notes from books and articles I am reading.
 - [Testing](#testing)
 - [Unix](#unix)
 - [Web Development](#web-development)
-- [Web3](#web3)
 - [Job Opportunities](#job-opportunities)
 
 <!-- /TOC -->
 
 ## Amazon Web Services
 
-- [AWS Certified Developer Associate](https://www.amazon.com/gp/product/B079QQQQQQQ)
+- [Cloud Computing with AWS](aws/cloud-computing-with-aws.md)
 
 ## Artificial Intelligence
 
@@ -74,17 +73,22 @@ Notes from books and articles I am reading.
 - [Stanford Db Course](databases/stanford_db_course.md)
 - [Git](deployment-cloud-and-version-control/git.md)
 
-## Docker
+## DevOps
 
-- [Docker For Beginners](docker/docker_for_beginners.md)
+- [Docker For Beginners](devops/docker_for_beginners.md)
+- [Terraform](devops/terraform.md)
+- [Jenkins](devops/jenkins.md)
+- [CircleCI](devops/circleci.md)
+- [Codemagic](devops/codemagic.md)
+- [Gradle](devops/gradle.md)
 
 ## Flutter
 
-- [Flutter For Beginners](flutter/flutter_for_beginners.md)
+- [Best Flutter Resources](flutter/flutter_for_beginners.md)
 
 ## Git
 
-- [Git For Beginners](git/git.md)
+- [Git Cheatsheet](git/git.md)
 
 ## Google Cloud Platform
 
@@ -94,10 +98,6 @@ Notes from books and articles I am reading.
 
 - [Learning Things Quickly](general/learning_things_quickly.md)
 - [Software Debugging Udacity](general/software_debugging_udacity.md)
-
-## GraphQL
-
-- [GraphQL For Beginners](graphql/graphql.md)
 
 ## Java
 
@@ -129,6 +129,13 @@ Notes from books and articles I am reading.
 
 - [Laravel](php/laravel.md)
 - [Core PHP](php/core_php.md)
+- [Larave: Addressing Technical Vurnarabilities](php/addressing_technical_vurnarabilities.md)
+- [Laravel: The Art of Migration](php/the_art_of_migration.md)
+- [Laravel: Eloquent](php/eloquent.md)
+- [Laravel: Testing](php/testing.md)
+- [Error and Exception Handling](php/error_and_exception_handling.md)
+- [Configuring and Managing Scheduled Tasks](php/configuring_managing_scheduled_tasks.md)
+- [Scheduled Automated Tests](php/scheduled_automated_tests.md)
 
 ## Problem Solving
 
@@ -143,14 +150,6 @@ Notes from books and articles I am reading.
 - [7 Principles Of Public Speaking](professional-development/7_principles_of_public_speaking.md)
 - [Passionate Programmer](professional-development/passionate_programmer.md)
 - [Pragmatic Programmer](professional-development/pragmatic_programmer.md)
-
-## Project Management
-
-- [Terraform](project-management/terraform.md)
-- [Jenkins](deployment-cloud-and-version-control/jenkins.md)
-- [CircleCI](deployment-cloud-and-version-control/circleci.md)
-- [Codemagic](deployment-cloud-and-version-control/codemagic.md)
-- [Gradle](deployment-cloud-and-version-control/gradle.md)
 
 ## Python
 
@@ -190,10 +189,6 @@ Notes from books and articles I am reading.
 - [Http](web-development/http.md)
 - [Microservices](web-development/microservices.md)
 - [Wsgi](web-development/wsgi.md)
-
-## Web3
-
--
 
 ## Job Opportunities
 
