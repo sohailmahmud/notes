@@ -128,7 +128,7 @@ Notes from books and articles I am reading.
 ## PHP
 
 - [Core PHP](php/core_php.md)
-- [Laravel: Addressing Technical Vurnarabilities](php/vurnarabilities.md)
+- [Laravel: Addressing Technical Vulnerabilities](php/vulnerabilities.md)
 - [Laravel: The Art of Migration](php/artofmigration.md)
 - [Laravel: Eloquent](php/eloquent.md)
 - [Laravel: Testing](php/testing.md)
