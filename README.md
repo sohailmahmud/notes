@@ -127,10 +127,9 @@ Notes from books and articles I am reading.
 
 ## PHP
 
-- [Laravel](php/laravel.md)
 - [Core PHP](php/core_php.md)
-- [Larave: Addressing Technical Vurnarabilities](php/addressing_technical_vurnarabilities.md)
-- [Laravel: The Art of Migration](php/the_art_of_migration.md)
+- [Laravel: Addressing Technical Vurnarabilities](php/vurnarabilities.md)
+- [Laravel: The Art of Migration](php/artofmigration.md)
 - [Laravel: Eloquent](php/eloquent.md)
 - [Laravel: Testing](php/testing.md)
 - [Error and Exception Handling](php/error_and_exception_handling.md)
