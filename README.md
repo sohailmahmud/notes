@@ -56,6 +56,7 @@ Notes from books and articles I am reading.
 ## Computer Science
 
 - [Algorithms Plus Data Structures Equals Programs](computer-science/algorithms_plus_data_structures_equals_programs.md)
+- [Passionate Programmer](computer-science/passionate_programmer.md)
 
 ## Data Structures and Algorithms
 
