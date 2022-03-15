@@ -147,7 +147,7 @@ Notes from books and articles I am reading.
 
 ## Professional Development
 
-- [7 Principles Of Public Speaking](professional-development/7_principles_of_public_speaking.md)
+- [Principles Of Public Speaking](professional-development/principles_of_public_speaking.md)
 - [Passionate Programmer](professional-development/passionate_programmer.md)
 - [Pragmatic Programmer](professional-development/pragmatic_programmer.md)
 
