@@ -76,7 +76,7 @@ Notes from books and articles I am reading.
 
 ## DevOps
 
-- [Docker For Beginners](devops/docker_for_beginners.md)
+- [Docker](devops/docker.md)
 - [Terraform](devops/terraform.md)
 - [Jenkins](devops/jenkins.md)
 - [CircleCI](devops/circleci.md)
