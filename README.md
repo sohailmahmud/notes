@@ -82,6 +82,7 @@ Notes from books and articles I am reading.
 - [CircleCI](devops/circleci.md)
 - [Codemagic](devops/codemagic.md)
 - [Gradle](devops/gradle.md)
+- [Kubernetes Deep Dive](devops/kubernetes_deep_dive.md)
 
 ## Flutter
 
