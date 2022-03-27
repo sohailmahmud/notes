@@ -19,6 +19,7 @@ Notes from books and articles I am reading.
 - [Google Cloud Platform](#google-cloud-platform)
 - [General](#general)
 - [GraphQL](#graphql)
+- [Interview Crack](#interview-crack)
 - [Java](#java)
 - [Javascript](#javascript)
 - [Machine Learning](#machine-learning)
@@ -100,6 +101,10 @@ Notes from books and articles I am reading.
 
 - [Learning Things Quickly](general/learning_things_quickly.md)
 - [Software Debugging Udacity](general/software_debugging_udacity.md)
+
+## Interview Crack
+
+- [Interview Crack Tips and Technique](interview-crack/interview-crack.md)
 
 ## Java
 
