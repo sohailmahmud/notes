@@ -33,6 +33,7 @@ Notes from books and articles I am reading.
 - [Python](#python)
 - [Rest APIs](#rest-apis)
 - [Software Engineering](#software-engineering)
+- [Snippets](#snippets)
 - [Testing](#testing)
 - [Unix](#unix)
 - [Web Development](#web-development)
@@ -175,6 +176,10 @@ Notes from books and articles I am reading.
 - [Head First Design Patterns](software-engineering/head_first_design_patterns.md)
 - [A Philosophy Of Software Design](software-engineering/philosophy_of_software_design.md)
 - [Refactoring](software-engineering/refactoring.md)
+
+## Snippets
+
+- [Domain Modeling](snippets/domain_modeling.md)
 
 ## Testing
 
