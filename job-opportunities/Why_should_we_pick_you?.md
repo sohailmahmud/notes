@@ -1,3 +1,5 @@
+
+
 Honestly, I possess all the skills and experience that you’re looking for. I’m pretty confident that I am the best candidate for this job role.
 
 It’s not just my background in the past projects, but also my people skills, which will be applicable in this position.
